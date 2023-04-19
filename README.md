@@ -1,4 +1,4 @@
-# QR_based_attendence_system
+# QR_based_attendance_system
 Attendance process in a university’s event is time
 consuming and tracking the attendance can be harder. a smart event attendance system for a university using QR
 code and GPS technology is proposed with objective to speed up
